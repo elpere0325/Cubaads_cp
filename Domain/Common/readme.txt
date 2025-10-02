@@ -1,0 +1,1 @@
+en esta carpeta se encuentran propiedades que son comunes para todos elementos
