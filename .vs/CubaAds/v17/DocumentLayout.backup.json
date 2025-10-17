@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\userendpoints\\userendpoints\\registeruserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\userendpoints\\userendpoints\\registeruserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\services\\authservice\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\services\\authservice\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\userendpoints\\appclientendpoints\\appclientendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\userendpoints\\appclientendpoints\\appclientendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\services\\tokenservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\services\\tokenservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\userendpoints\\userendpoints\\loginuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\userendpoints\\userendpoints\\loginuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\services\\apikeyservice\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\services\\apikeyservice\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\services\\authservice\\middleware\\apikeyauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\services\\authservice\\middleware\\apikeyauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\authendpoint\\dtos\\requests\\appclientrequest\\appclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\authendpoint\\dtos\\requests\\appclientrequest\\appclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\appclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\appclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\campain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\campain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\authendpoint\\dtos\\response\\userresponse\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\authendpoint\\dtos\\response\\userresponse\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\authendpoint\\dtos\\response\\userresponse\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\authendpoint\\dtos\\response\\userresponse\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\services\\passwordhasher\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\services\\passwordhasher\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\types\\adtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\types\\adtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\types\\apptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\types\\apptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\types\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\types\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\authendpoint\\dtos\\requests\\userrequests\\registuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\authendpoint\\dtos\\requests\\userrequests\\registuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\common\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\common\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\dbcubaadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\dbcubaadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\endpoints\\authendpoint\\dtos\\requests\\userrequests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\endpoints\\authendpoint\\dtos\\requests\\userrequests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\common\\createdentitytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\common\\createdentitytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\models\\entities\\adview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\models\\entities\\adview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|d:\\proyecto full_stack\\mis codigos\\testeo\\cubaads\\cubaads\\migrations\\20251010183233_cubaads_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9771B3-3AB7-442B-9C41-61F14538AFC3}|CubaAds\\CubaAds.csproj|solutionrelative:cubaads\\migrations\\20251010183233_cubaads_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppClientEndpoint.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\AppClientEndpoints\\AppClientEndpoint.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\UserEndpoints\\AppClientEndpoints\\AppClientEndpoint.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\AppClientEndpoints\\AppClientEndpoint.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\UserEndpoints\\AppClientEndpoints\\AppClientEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:36:05.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiKeyService.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\ApiKeyService\\ApiKeyService.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Services\\ApiKeyService\\ApiKeyService.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\ApiKeyService\\ApiKeyService.cs",
+              "RelativeToolTip": "CubaAds\\Services\\ApiKeyService\\ApiKeyService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:55:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\TokenServices\\TokenService.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Services\\TokenServices\\TokenService.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\TokenServices\\TokenService.cs",
+              "RelativeToolTip": "CubaAds\\Services\\TokenServices\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:35:44.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyAuthMiddleware.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\AuthService\\Middleware\\ApiKeyAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Services\\AuthService\\Middleware\\ApiKeyAuthMiddleware.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\AuthService\\Middleware\\ApiKeyAuthMiddleware.cs",
+              "RelativeToolTip": "CubaAds\\Services\\AuthService\\Middleware\\ApiKeyAuthMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:04:11.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserEndpoint.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:43:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\AuthService\\Validators\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Services\\AuthService\\Validators\\RegisterValidator.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\AuthService\\Validators\\RegisterValidator.cs",
+              "RelativeToolTip": "CubaAds\\Services\\AuthService\\Validators\\RegisterValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:36:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUserEndpoint.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\RegisterUserEndpoint.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\RegisterUserEndpoint.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\RegisterUserEndpoint.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\UserEndpoints\\UserEndpoints\\RegisterUserEndpoint.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:44:17.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Program.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Program.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Program.cs",
+              "RelativeToolTip": "CubaAds\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vyEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:31:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Ad.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\Ad.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Ad.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\Ad.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:37:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\LoginResponse.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\LoginResponse.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\LoginResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:38:49.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Business.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Business.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\Business.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Business.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\Business.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:36:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppClient.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\AppClient.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\AppClient.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\AppClient.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\AppClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:49:34.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppClientRequest.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\AppClientRequest\\AppClientRequest.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\AppClientRequest\\AppClientRequest.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\AppClientRequest\\AppClientRequest.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\AppClientRequest\\AppClientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:15:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Campain.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Campain.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\Campain.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Campain.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\Campain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:36:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClickEvent.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\ClickEvent.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\ClickEvent.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\ClickEvent.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\ClickEvent.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:36:45.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\RegisterResponse.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\RegisterResponse.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Response\\UserResponse\\RegisterResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:17:12.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\PasswordHasher\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Services\\PasswordHasher\\PasswordHasher.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Services\\PasswordHasher\\PasswordHasher.cs",
+              "RelativeToolTip": "CubaAds\\Services\\PasswordHasher\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:10:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdTypes.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\AdTypes.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Types\\AdTypes.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\AdTypes.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Types\\AdTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:52:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppType.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\AppType.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Types\\AppType.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\AppType.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Types\\AppType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:52:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\Rol.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Types\\Rol.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Types\\Rol.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Types\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:22:19.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistUserRequest.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\RegistUserRequest.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\RegistUserRequest.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\RegistUserRequest.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\RegistUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:41:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\readme.txt",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Common\\readme.txt",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\readme.txt",
+              "RelativeToolTip": "CubaAds\\Models\\Common\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-10T20:50:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251010183233_CubaAds_Migration.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Migrations\\20251010183233_CubaAds_Migration.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Migrations\\20251010183233_CubaAds_Migration.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Migrations\\20251010183233_CubaAds_Migration.cs",
+              "RelativeToolTip": "CubaAds\\Migrations\\20251010183233_CubaAds_Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:32:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DbCubaAdContext.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\DbCubaAdContext.cs",
+              "RelativeDocumentMoniker": "CubaAds\\DbCubaAdContext.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\DbCubaAdContext.cs",
+              "RelativeToolTip": "CubaAds\\DbCubaAdContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:48:19.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:52.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Pricing.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\Pricing.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\Pricing.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\Pricing.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Common\\Entity.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\Entity.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Common\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:15:05.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\appsettings.json",
+              "RelativeDocumentMoniker": "CubaAds\\appsettings.json",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\appsettings.json",
+              "RelativeToolTip": "CubaAds\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T18:18:40.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\LoginUserRequest.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\LoginUserRequest.cs",
+              "RelativeToolTip": "CubaAds\\Endpoints\\AuthEndpoint\\DTOs\\Requests\\UserRequests\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:42:25.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreatedEntityTime.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\CreatedEntityTime.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Common\\CreatedEntityTime.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Common\\CreatedEntityTime.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Common\\CreatedEntityTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:20:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdView.cs",
+              "DocumentMoniker": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\AdView.cs",
+              "RelativeDocumentMoniker": "CubaAds\\Models\\Entities\\AdView.cs",
+              "ToolTip": "D:\\Proyecto FULL_STACK\\Mis codigos\\Testeo\\CubaAds\\CubaAds\\Models\\Entities\\AdView.cs",
+              "RelativeToolTip": "CubaAds\\Models\\Entities\\AdView.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:46.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

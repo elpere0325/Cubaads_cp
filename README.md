@@ -1,2 +1,0 @@
-# Cubaadss_capacitacion
-
